@@ -1,5 +1,4 @@
 # lensGW-PyCBC-plugin
-plugin for waveform generation using PyCBC
 
 ## Method to use:
 
