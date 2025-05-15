@@ -9,7 +9,7 @@
 - then follow these steps
 ```
 %%shell
-git clone https://github.com/SSingh087/lensGW-PyCBC-plugin.git
+git clone https://github.com/jaswantjayacumaar/lensGW-PyCBC-plugin.git
 cd lensGW-PyCBC-plugin/
 python setup.py install
 ```
